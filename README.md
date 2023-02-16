@@ -1,6 +1,5 @@
-# Using TA sample code for HW1
 
-# ADL22 HW1
+# ADL22 HW
 ## Environment
 ```
 pip3 install -r requirements.in
